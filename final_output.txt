@@ -1,0 +1,122 @@
+Amount to extract -10 account_type is 2
+Not valid amount to extract
+
+Amount to extract 20 account_type is 2
+Not valid amount to extract
+
+Amount to extract 3000 account_type is 2        
+Transaction successfull
+
+Amount to add 40 account_type is 2
+Not valid amount to extract
+
+Amount to add 4000 account_type is 2
+Transaction successfull
+
+Amount to extract 12000 account_type is 2       
+Not Sufficient Amount to extract
+
+Amount to extract 0 account_type is 1
+Not valid amount to extract
+
+Amount to extract 20 account_type is 1
+Not valid amount to extract
+
+Amount to extract 2000 account_type is 1        
+Transaction successfull
+
+Amount to add 40 account_type is 1
+Not valid amount to extract
+
+Amount to add 1000 account_type is 1
+Transaction successfull
+
+Saving account Transactions
+Debit 3000
+Credit 4000
+
+
+Saving account Final Balance
+11000
+
+Checking account Transactions
+Debit 2000
+Credit 1000
+
+
+Checking account Final Balance
+9000
+
+C:\Users\HIREN\Desktop\Ajmera infotech Prac Round>python bank_transactions.py
+Amount to extract -10 account_type is 2
+Not valid amount to extract
+
+Amount to extract 20 account_type is 2
+Not valid amount to extract
+
+
+C:\Users\HIREN\Desktop\Ajmera infotech Prac Round>python bank_transactions.py
+Amount to extract -10 account_type is 2
+Not valid amount or account type to extract
+
+Amount to extract 20 account_type is 2
+Not valid amount or account type to extract     
+
+C:\Users\HIREN\Desktop\Ajmera infotech Prac Round>python bank_transactions.py
+Amount to extract -10 account_type is 2
+Not valid amount or account type to extract
+
+Amount to extract 20 account_type is 2     
+Not valid amount or account type to extract
+
+Amount to extract 3000 account_type is 2
+
+C:\Users\HIREN\Desktop\Ajmera infotech Prac Round>python bank_transactions.py
+Amount to extract -10 account_type is 2
+Not valid amount or account type to extract
+
+Amount to extract 20 account_type is 2
+Not valid amount or account type to extract
+
+Amount to extract 3000 account_type is 2
+Transaction successfull
+
+Amount to add 40 account_type is 2
+Not valid amount or account type to extract
+
+Amount to add 4000 account_type is 2
+Transaction successfull
+
+Amount to extract 12000 account_type is 2
+Not Sufficient Amount to extract
+
+Amount to extract 0 account_type is 1
+Not valid amount or account type to extract
+
+Amount to extract 20 account_type is 1
+Not valid amount or account type to extract
+
+Amount to extract 2000 account_type is 1
+Transaction successfull
+
+Amount to add 40 account_type is 1
+Not valid amount or account type to extract
+
+Amount to add 1000 account_type is 1
+Transaction successfull
+
+Saving account Transactions
+Debit 3000
+Credit 4000
+
+
+Saving account Final Balance
+11000
+
+Checking account Transactions
+Debit 2000
+Credit 1000
+
+
+Checking account Final Balance
+9000
