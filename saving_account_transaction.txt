@@ -1,0 +1,2 @@
+Debit 3000
+Credit 4000
